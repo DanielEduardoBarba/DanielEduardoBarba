@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=0e75b6&style=flat" alt="danieleduardobarba" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=ff0000&style=plastic" alt="danieleduardobarba" /> </p>
 
 - 🔭 I’m currently working on an **online chess app**
 
