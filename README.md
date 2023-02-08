@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an **online chess app**
 
-- 👨‍💻 All of my projects are available at [https://www.developdan.com](developdan.com)
+- 👨‍💻 All of my projects are available at [developdan.com](https://www.developdan.com)
 
 - 💬 Ask me about **product design, mechatronic systems, rapid prototyping**
 
