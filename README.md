@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=ff0000&style=plastic" alt="danieleduardobarba" /> </p>
 
-- 🔭 I’m currently working on an **online chess app**
+- 🔭 I’m currently working on an **a kid's banking system for parents**
 
-- 👨‍💻 All of my projects are available at [developdan.com](https://www.developdan.com)
+- 👨‍💻 Check out my portfolio at [developdan.com](https://www.developdan.com)
 
-- 💬 Ask me about **product design, mechatronic systems, rapid prototyping**
+- 💬 Ask me about **software development, product design, mechatronic systems, rapid prototyping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
