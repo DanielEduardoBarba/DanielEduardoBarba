@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+## <h1 align="center">Hi 👋, I'm Daniel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=ff0000&style=plastic" alt="danieleduardobarba" /> </p>
 
-- 🔭 I’m currently working on a **kid's banking and chore tracking app** Check it out! [PigEBank](https://app.pigebank.click)
+## 🔭 I’m currently working on an **AI vision shop management system** 
 
-- 👨‍💻 Check out my portfolio at [developdan.com](https://www.developdan.com)
+## 🙌🏼 I recently finished a **kid's banking and chore tracking app** Check it out! [PigEBank](https://app.pigebank.click)
 
-- 💬 Ask me about **software development, product design, mechatronic systems, rapid prototyping**
+## 👨‍💻 Check out my portfolio at [developdan.com](https://www.developdan.com)
+
+## 💬 Ask me about **software development, product design, mechatronic systems, rapid prototyping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
