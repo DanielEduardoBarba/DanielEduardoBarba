@@ -1,7 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm Daniel</h1>
 
-[<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=ff0000&style=plastic" alt="danieleduardobarba" /> </p>](https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=brightgreen&style=for-the-badge)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieleduardobarba&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=ff0000&style=plastic" alt="danieleduardobarba" /> </p>
 
 ## 🔭 I’m currently working on an AI vision shop/data feedback system
 
@@ -31,6 +30,8 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieleduardobarba&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
@@ -59,4 +60,3 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieleduardobarba&show_icons=true&locale=en&layout=compact" alt="danieleduardobarba" /></p>
