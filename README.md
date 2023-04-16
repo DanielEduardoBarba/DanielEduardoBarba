@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=ff0000&style=plastic" alt="danieleduardobarba" /> </p>
 
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
 ## 🔭 I’m currently working on an AI vision shop/data feedback system
 
 ## 🙌🏼 I recently finished a kid's banking and chore tracking app! Sign up today! [PigEBank](https://app.pigebank.click)
