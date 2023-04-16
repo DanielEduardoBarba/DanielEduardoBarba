@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Daniel</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=ff0000&style=plastic" alt="danieleduardobarba" /> </p>
+[<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=ff0000&style=plastic" alt="danieleduardobarba" /> </p>](https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=brightgreen&style=for-the-badge)
 
 ## 🔭 I’m currently working on an AI vision shop/data feedback system
 
@@ -18,7 +18,6 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -57,5 +56,7 @@
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieleduardobarba&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieleduardobarba&show_icons=true&locale=en&layout=compact" alt="danieleduardobarba" /></p>
