@@ -1,14 +1,14 @@
-## <h1 align="center">Hi 👋, I'm Daniel</h1>
+## <h1 align="center">Hey I'm Daniel!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=ff0000&style=plastic" alt="danieleduardobarba" /> </p>
 
-## 🔭 I’m currently working on an AI vision shop/data feedback system
+# 🔭 I’m currently working on an AI vision shop/data feedback system
 
-## 🙌🏼 I recently finished a kid's banking and chore tracking app! Sign up today! [PigEBank](https://app.pigebank.click)
+# 🙌🏼 I recently finished a kid's banking and chore tracking app! Sign up today! [PigEBank](https://app.pigebank.click)
 
-## 👨‍💻 Check out my portfolio at [developdan.com](https://www.developdan.com)
+# 👨‍💻 Check out my portfolio at [developdan.com](https://www.developdan.com)
 
-## 💬 Ask me about **software development, product design, mechatronic systems, rapid prototyping**
+# 💬 Ask me about **software development, product design, mechatronic systems, rapid prototyping**
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
