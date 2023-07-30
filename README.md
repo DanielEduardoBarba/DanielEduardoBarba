@@ -10,7 +10,6 @@
 
 # 💬 Ask me about **software development, product design, mechatronic systems, rapid prototyping**
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 ### Buy me a "coffee"!!
 <a href="https://www.buymeacoffee.com/developdan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
