@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=ff0000&style=plastic" alt="danieleduardobarba" /> </p>
 
-# 🔭 I’m currently working on an AI vision shop/data feedback system
-
-# 🙌🏼 I recently finished a kid's banking and chore tracking app! Sign up today! [PigEBank](https://app.pigebank.click)
+# 🙌🏼 Contract me today! [DevCon1](https://devcon1solutions.com)
 
 # 👨‍💻 Check out my portfolio at [developdan.com](https://www.developdan.com)
 
