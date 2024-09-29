@@ -4,7 +4,7 @@
 
 # 🙌🏼 Contract me today! [DevCon1](https://devcon1solutions.com)
 
-# 👨‍💻 Check out my portfolio at [developdan.com](https://www.developdan.com)
+# 👨‍💻 Check out my [portfolio](https://www.developdan.com)
 
 # 💬 Ask me about **software development, product design, mechatronic systems, rapid prototyping**
 
