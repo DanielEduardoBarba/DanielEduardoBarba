@@ -9,12 +9,13 @@
 <br/><br/>
 
 Full-stack and mobile work — commercial platforms, encrypted infrastructure, and iOS apps.<br/>
-Marine IoT, desktop tools, and web.
+Spanning marine IoT, desktop tools, and web.
 
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-developdan.com-111111?style=flat-square&logo=safari&logoColor=white)](https://www.developdan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-e-barba/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DanielEduardoBarba)
 [![Email](https://img.shields.io/badge/Email-danieleduardobarba%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danieleduardobarba@gmail.com)
 [![DevCon1](https://img.shields.io/badge/Business-DevCon1-e14e60?style=flat-square&logo=rocket&logoColor=white)](https://devcon1solutions.com/contact)
 
@@ -26,11 +27,13 @@ Marine IoT, desktop tools, and web.
 
 Engineering across the stack — embedded hardware, self-hosted infrastructure, iOS apps, and web front-ends. Clear implementation and interfaces that hold up in daily use.
 
+Projects range from commercial IoT systems to smaller app experiments.
+
 | | |
 |:---:|:---|
 | **iOS** | Native & React Native |
 | **On-prem** | Self-hosted infra |
-| **Cloud** | AWS · GCP · Firebase · Azure |
+| **Cloud** | Any |
 
 ---
 
@@ -39,7 +42,7 @@ Engineering across the stack — embedded hardware, self-hosted infrastructure, 
 | | Project | What it is |
 |:---:|:---|:---|
 | **01** | [**Markour**](https://apps.apple.com/us/app/markour/id6760632864) | iOS drawing & whiteboard app — React Native, Expo, Skia |
-| **02** | [**Bluelink**](https://spotzerobluelink.com) | Marine IoT ecosystem — touchscreen, embedded core, cloud platform |
+| **02** | [**Bluelink**](https://spotzerobluelink.com) | Marine IoT — Touch 2.0, Connect, Update & MFD integration |
 | **03** | **Nextcloud** | On-prem file server — compliance-driven, access-gated, local-first |
 | **04** | [**PTS**](https://www.youtube.com/watch?v=Ba2qaQILcww) | Pistol training system — C# desktop, USB hub, wireless target nodes |
 | **05** | [**DevCon1**](https://devcon1solutions.com) | Business site — Next.js, React, Firebase, client services & demos |
@@ -62,12 +65,12 @@ Engineering across the stack — embedded hardware, self-hosted infrastructure, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=danieleduardobarba&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=default" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleduardobarba&layout=compact&hide_border=true&theme=default" alt="Languages" />
+<img height="165" src="./assets/stats.svg" alt="GitHub stats" />
+<img height="165" src="./assets/top-langs.svg" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danieleduardobarba&hide_border=true&theme=default" alt="Streak" />
+<img src="./assets/streak.svg" alt="GitHub streak" />
 
 </div>
 
