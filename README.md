@@ -1,94 +1,84 @@
 <div align="center">
 
-# Hey, I'm Daniel 👋
-
-### Software Engineer · Product Designer · Mechatronics
-
-*Building elegant software, thoughtful products, and intelligent hardware.*
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=1200&color=111111&center=true&vCenter=true&width=620&lines=Daniel+Barba;Building+software+for+web%2C+mobile+%26+embedded" alt="Daniel Barba" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-developdan.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.developdan.com)
-[![DevCon1](https://img.shields.io/badge/Hire_Me-DevCon1-1d1d1f?style=for-the-badge&logo=rocket&logoColor=white)](https://devcon1solutions.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-e-barba)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010d685dd4debfa757)
+<img src="https://img.shields.io/badge/Available_for_select_work-iOS_%26_Web-111111?style=flat-square" alt="Available for select work" />
 
-<img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=Profile%20views&color=000000&style=flat-square" alt="Profile views" />
+<br/><br/>
+
+Full-stack and mobile work — commercial platforms, encrypted infrastructure, and iOS apps.<br/>
+Marine IoT, desktop tools, and web.
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-developdan.com-111111?style=flat-square&logo=safari&logoColor=white)](https://www.developdan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-e-barba/)
+[![Email](https://img.shields.io/badge/Email-danieleduardobarba%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danieleduardobarba@gmail.com)
+[![DevCon1](https://img.shields.io/badge/Business-DevCon1-e14e60?style=flat-square&logo=rocket&logoColor=white)](https://devcon1solutions.com/contact)
 
 </div>
 
 ---
 
-### 💬 Ask me about
+### About
 
-> **Software development · Product design · Mechatronic systems · Rapid prototyping**
+Engineering across the stack — embedded hardware, self-hosted infrastructure, iOS apps, and web front-ends. Clear implementation and interfaces that hold up in daily use.
 
-<br/>
+| | |
+|:---:|:---|
+| **iOS** | Native & React Native |
+| **On-prem** | Self-hosted infra |
+| **Cloud** | AWS · GCP · Firebase · Azure |
 
-## 🧰 Tech Stack
+---
 
-<div align="center">
+### Selected work
 
-**Languages**
+| | Project | What it is |
+|:---:|:---|:---|
+| **01** | [**Markour**](https://apps.apple.com/us/app/markour/id6760632864) | iOS drawing & whiteboard app — React Native, Expo, Skia |
+| **02** | [**Bluelink**](https://spotzerobluelink.com) | Marine IoT ecosystem — touchscreen, embedded core, cloud platform |
+| **03** | **Nextcloud** | On-prem file server — compliance-driven, access-gated, local-first |
+| **04** | [**PTS**](https://www.youtube.com/watch?v=Ba2qaQILcww) | Pistol training system — C# desktop, USB hub, wireless target nodes |
+| **05** | [**DevCon1**](https://devcon1solutions.com) | Business site — Next.js, React, Firebase, client services & demos |
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+→ Full case studies at **[developdan.com](https://www.developdan.com)**
 
-**Frameworks & Tools**
+---
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Cloud & Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
+### Stack
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=danieleduardobarba&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=555555&bg_color=ffffff" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieleduardobarba&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danieleduardobarba&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000" alt="Streak" />
+<img src="https://skillicons.dev/icons?i=react,rn,expo,nextjs,tailwind,ts,js,cs,firebase,aws,gcp,linux,git,html,css&perline=7" alt="Tech stack" />
 
 </div>
 
-<br/>
+---
+
+### GitHub
 
 <div align="center">
 
-### ☕ Enjoy my work?
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=danieleduardobarba&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=default" alt="Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleduardobarba&layout=compact&hide_border=true&theme=default" alt="Languages" />
 
-<a href="https://www.buymeacoffee.com/developdan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy me a coffee" /></a>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danieleduardobarba&hide_border=true&theme=default" alt="Streak" />
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=danieleduardobarba&label=views&color=111111&style=flat-square" alt="Profile views" />
+
+<br/><br/>
+
+*Open to select projects and collaborations.*
+
+</div>
