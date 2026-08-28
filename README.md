@@ -29,7 +29,7 @@ Marine, HMIs, IoT, desktop, mobile, and web.
 
 | iOS | On-prem | Cloud |
 |:---:|:---:|:---:|
-| Native & React Native | Self-hosted infra | AWS · GCP · Firebase |
+| React Native | Self-hosted infra | AWS · GCP · Firebase |
 
 <br/>
 
