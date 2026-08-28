@@ -11,7 +11,7 @@
 <br/><br/>
 
 Full-stack and mobile — commercial platforms, encrypted infrastructure, and iOS apps.<br/>
-Marine IoT, desktop tools, and web.
+Marine, HMIs, IoT, desktop, mobile, and web.
 
 <br/><br/>
 
